@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MMorse1973 (Matt Morse)
-- 👀 I’m interested in Front End Devlopment opportunities 
+- 👀 I’m interested in software engineering consulting & front end opportunities 
 - 🌱 I’m currently learning https://github.com/
 - 💞️ I’m looking to collaborate on Front End Devlopment opportunities  
 - 📫 How to reach me LinkedIn: https://www.linkedin.com/in/mattbmorse/
