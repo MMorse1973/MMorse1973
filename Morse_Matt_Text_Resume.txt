@@ -1,0 +1,140 @@
+Matthew (Matt) Morse									        
+  Resume Plain Text File Format (*.txt)
+________________________________________________________________________________________________
+ CONTACT INFORMATION
+   E-mail: mm@mattmorse.com
+   Phone: (805) 796-0070
+   Website: https://mattmorse.com
+   Location: Thousand Oaks, California 
+________________________________________________________________________________________________
+ RESUME FORMATS 
+   ASCII TXT:  https://mattmorse.com/docs/Matt_Morse-Resume.xtx
+   PDF 1 Page: https://mattmorse.com/docs/Matt_Morse-Resume_1pg.pdf 
+   PDF 3 Page: https://mattmorse.com/docs/Matt_Morse-Resume_3pg.pdf
+________________________________________________________________________________________________  
+ PROFESSIONAL SOCIAL MEDIA
+   LinkedIn: https://www.linkedin.com/in/mattbmorse/
+   Github Profile: https://github.com/MMorse1973
+________________________________________________________________________________________________  
+ WORK AUTHORIZATION 
+   Work Authorization: U.S. Citizen
+________________________________________________________________________________________________   
+ ROLE QUALIFICATIONS 
+   Position ID: ???
+   Security Clearance: contact for details
+   Desired Location: Remote | 25% Travel | Northern Greater Los Angeles area | Southern Thousand Oaks, California
+   
+ OBJECTIVE
+________________________________________________________________________________________________
+ SUMMARY OF SKILLS
+	Front-end web design and development, full-stack web solutions development.
+	Graphic design, interactive user interface (UI) and user experience (UX) design and developer. 	
+	Client facing web software solutions consulting, requirements capture, solution design, presentation, development, training, performance assessment & optimization, administration, documentation and support. 
+	Manage project to deliver requirements within specified timeline and budget 
+	Customer Relation Management Solution techno-functional consultant, architecture, design, development, implementation, administration and support in accordance with master service agreements (MSA), statements of work (SOW) and service level agreements (SLA)..
+	Tracking time, contractor billable hours, reporting to clients   
+________________________________________________________________________________________________	
+ TECHNOLOGY
+    Web Development HTML CSS JavaScript
+	Graphic design, print design, photographic correction, illustration, animation, audio video editing and production, mockup and prototyping: Adobe Creative Cloud,
+	Office productivity, presentation decks, spreadsheets: MicroSoft Office 360 Suite, Google Docs 
+	Oracle Cloud Service B2C (formerly: Oracle Service Cloud, Oracle CX, Oracle RightNow, RightNow Technologies CX,)
+	Oracle NetSuite (formerly: NetSuite) cloud enterprise resource planning, (ERP) systems administrator
+	SalesForce cloud customer relationship management (CRM) platform, administrator, techno-functional consulting, front-end web developer
+	Software Development Life Cycle methodologies and tools 
+	Agile Scrum
+	Atlassian Jira - Agile Project Management and ticket tracking  
+	
+________________________________________________________________________________________________
+ WORK EXPERIENCE
+
+    Job Title,
+      Company,
+      City, State,
+      Dates of Employment
+
+    Describe your job responsibilities as accomplishments, Begin sentences with verbs, Use keywords from the job description, List jobs from most recent to least recent
+    ______________________________________________________	
+    SENIOR CLOUD ENGINEER | ENGINEER | BUSINESS CONSULTANT 
+      Eventus Solutions Group
+	  Englewood Colorado (remote, 15% travel)
+      March 2013 - February 2020 (7 years, W2) 
+	  
+	  BUSINESS CONSULTANT - March 2018 - February 2020 - 2 years W2
+	  ENGINEER - March 2016 - March 2018 - 2 years 1 month W2 
+	  SENIOR CLOUD ENGINEER - April 2013 - March 2016 - 3 years W2
+	  	  
+	  In all roles, customer relationship management (CRM) solutions techno + functional consultant and web solutions developer for several fortune 100 accounts.
+	  Designed, developed, and supported CRM B2C solutions for multiple custom application development & managed services clients simultaneously.
+	  Worked in agile collaborative teams, often as client facing or technical lead role.
+	  
+	  * Client-facing customer relationship management (CRM) consultant designed, developed, delivered & supported innovative CRM/call center solutions using cloud platforms like Oracle Service Cloud (formerly RightNow CX), Pega (PCSA Cert.), Jira, TeamWork, TFS, NetSuite and SalesForce. 
+      * Built customer-focused relationships with clients to identify business challenges, gather requirements develop specifications to arrive at the best solution. Worked directly with clients to gather project requirements, target key performance indicators and verify results with analytics. Identified additional product/service opportunities. 
+      * Account and project management responsibilities. Coordinated multi-member development teams and collaborated across multiple internal teams to ensure successful delivery and support, based on scope of work. 
+      * Demonstrated proficiency in creating proposals and SOW's, responding to RFP's. Present proposals to clients and drive working sessions with client to ensure expectations and direction are aligned and timelines were met.
+	  * Developed analytics based approaches and reporting to demonstrate improved performance metrics (KPI). 
+      * Designed client brand standards compliant web and desktop applications and communications consistent across multi-language and multi-channel. 
+      * Tracked work hours by client & activity to maintain target utilization.
+
+        Skills: HTML, HTML5, XHTML, XML, JavaScript, JQuery, CSS, CSS3, PHP, requirements gathering, solutions architecture, customer client facing, presentation, training, project management, customer relations, technical support, documentation, systems administration, analytics, web development, campaign design and branding. 
+        Solution Platforms: Oracle Service Cloud (formerly RightNow CX), Pega (PCSA Cert.), Jira, TeamWork, TFS, NetSuite and SalesForce
+		Clients: Walmart Inc.,The Kraft Heinz Company (KHC), Cenlar FSB, The Children's Place Inc., EPAY Worldwide part of Euronet Worldwide, General Dynamics Information Technology (GDIT), Lenovo Group Limited, , Maryland Health Benefit Exchange, Verizon Communications Inc. (Redbox Instant By Verizon), Nicklaus Children's Hospital, Carnival Corporation & plc, Sentara Healthcare, Avon Products, Inc., Arbonne International, LLC...
+	_________________________________ 
+	WEB DEVELOPMENT SOFTWARE ENGINEER
+      InterDealer Information Technologies (Formerly: InterDealer Trading Solutions) 
+      Simi Valley California (on site) 
+      3/2012 - 2/2013 (1 year, W2) 
+	  
+	  Designed, developed, supported, trained and documented web-based products and web sites to market and support advanced trading technologies for fixed-income markets, the InterDealer trading system.
+	  Coordinated with client teams to gather requirements and integrate InterDealer trading system products into clients' proprietary web-based and desktop trading terminal applications.
+	  Designed, developed, supported, trained and documented company intranet and corporate websites based using WordPress blog and content management system.  
+	  The InterDealer global network delivers electronic trading data to 9 out of the world’s 10 largest banks, and its users include 8,000 credit traders in over 2,000 financial institutions.
+      * Website and web-based product design, architecture, UI & graphic design, development, training and technical support  
+      * Systems & software development activities related to the InterDealer trading system and integration with client products.
+      * Software design, coding and management responsibilities.
+      * Graphic & product design, training, presentation and documentation
+      * Assist with creation of the InterDealer University training system
+	  * Website development, design, animation and interactivity. Secure documentation access. 
+	  * Systems & software development activities related to the InterDealer trading system.
+	  * Software design, coding and management responsibilities.
+	  * Graphic & product UI design 
+		
+		Skills: HTML, HTML5, XHTML, XML, JavaScript, CSS, CSS3, requirements gathering, solutions architecture, customer client facing, presentation, training, project management, customer relations, technical support, documentation, systems administration, web development graphic design and branding. 
+        Solution Platforms: InterDealer Trading System, Bloomberg Terminal, Bloomberg Professional Services platform formats and style guides, WordPress, Jira, TeamWork, TFS
+		Clients: Bloomberg L.P., BlackRock, Inc., Walmart Inc.,The Kraft Heinz Company (KHC), Cenlar FSB, The Children's Place Inc., EPAY Worldwide part of Euronet Worldwide, General Dynamics Information Technology (GDIT), Lenovo Group Limited, , Maryland Health Benefit Exchange, Verizon Communications Inc. (Redbox Instant By Verizon), Nicklaus Children's Hospital, Carnival Corporation & plc, Sentara Healthcare, Avon Products, Inc., Arbonne International, LLC...
+    ________________________________________________________________________________________________________________________________________________________________________________________________	
+	MULTIMEDIA AND GRAPHICS DEPARTMENT MANAGER | MULTIMEDIA & PRODUCT DESIGN DIVISIONS SUPERVISOR | MULTIMEDIA TRAINING SOFTWARE DEVELOPER
+      Rapattoni Corporation
+      Simi Valley California (on site, some travel) 
+      9/2002 - 06/2010 (7 years 10 months, 1099Misc & W2) 
+	  
+	  MULTIMEDIA AND GRAPHICS DEPARTMENT MANAGER (January 2005 - June 2010 5 y 6 m, W2 full-time)
+	  MULTIMEDIA & PRODUCT DESIGN DIVISIONS SUPERVISOR (Jan 2004 - Jan 2005, 1 yr 1 mo 1099 contractor)
+	  MULTIMEDIA TRAINING SOFTWARE DEVELOPER (Sep 2002 - Jan 2004 · 1 year 5 months 1099 contractor) 
+	  
+	  MULTIMEDIA AND GRAPHICS DEPARTMENT MANAGER (January 2005 - June 2010 5 y 6 m, W2 full-time)
+		Hired on as W2 full time, as Manager of the Multimedia and Graphics Department. 
+        * Managing Multimedia Department included supervising personnel, managing projects, budgeting and coordinating acquisition and maintenance of facilities and equipment as well as acting as creative lead designer and mentor to the team. Scheduled project timelines and coordinated with project stakeholders. 
+        * Coordinated company-wide projects for marketing, training, documentation and new product design and implementation. 
+        * Managed the development and maintenance of company intranet and integrated productivity tools, such as MS SharePoint, RightNow, Oracle CX, Idea Lab... 
+        * Managed design, development, and implementation of customer websites. Coordinated deployment of new customer SAAS Web-based Products. 
+        * Supported, designed and developed, product online and disk-based help and tutorial training systems, product UI and mock up UX POCs. Managed, designed and developed online animated training media, marketing media, video production, 4 color print collateral design and production. 
+        * Supervised a team of up to 6 designers and developers. 
+        * Designed, equipped and managed multimedia studio facility and maintained production photography, lighting, audio recording, audio visual presentation/recording and related support equipment. 
+        * Designed, created, supported trade show booth and exhibits. 
+        * Photographed audio/video recorded events on location and in studio.
+		
+      MULTIMEDIA & PRODUCT DESIGN DIVISIONS SUPERVISOR (Jan 2004 - Jan 2005 · 1 yr 1 mo 1099 contractor)
+	    Supervisor of Multimedia Division and Product Design Divisions. Supervised up to 6 staff, including writing evaluations, provisioning, training & coordinating production with project stakeholders.
+		* Bullett points? 
+        Skills: Staff supervision, project management, animation, interactive software design, Cloud SAAS software UI, UX product design and development, agile & waterfall development methodologies, Customer Relationship Management (CRM) HP ITG, RightNow Technologies, Oracle CX 
+
+	  MULTIMEDIA TRAINING SOFTWARE DEVELOPER (Sep 2002 - Jan 2004 · 1 year 5 months 1099 contractor)
+	    Developed training software, web-based product design, web front-end design and development, full-stack integration, graphic & logo design, animation, and photography, video, audio recording, editing and production. Mentored and trained other resources in web and graphic design.
+		
+ BIO 
+    Matt brings to more than 25 years of software & web development, media, interactive & graphic design, animation, client consulting, training, staff supervision and project management experience.
+	He has extensive expertise within the areas of branding, user interface design, user experience, web self-service, and multi-channel customer portals consulting.
+	Matt's focus is on optimizing the end-user experience of customer service portals to maximize brand identity consistency, self-service potential, call deflection, and improve efficiency of CRM system deployment and operation for our clients.
+	Matt has also administered internal software implementations, including Oracle CX (Oracle Service Cloud/OSvC, OB2C, RNT RightNow CX) SalesForce, Pega and Oracle NetSuite ERP and Accounting.
+  
