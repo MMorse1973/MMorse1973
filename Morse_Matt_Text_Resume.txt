@@ -34,11 +34,11 @@ Matthew (Matt) Morse
  BIOGRAPHY
  
     Hi I am Matt Morse, 
-    I have 27 years experience developing web, cloud and native software	solutions. From military
-    avionics and surface warfare training to marine biology educational
-    simulations, real estate & financial instruments trading web-based solutions, cloud
-	   customer relationship management and enterprise resource management consulting, branding and
-    front end development, with leading clients in the public, private, and non-profit sectors.
+    I have 27 years experience developing web, cloud and native software solutions. From military
+    avionics and surface warfare training to marine biology educational simulations, real estate & 
+    financial instruments trading web-based solutions, cloud customer relationship management and 
+    enterprise resource management consulting, branding and front end development, with leading 
+    clients in the public, private, and non-profit sectors.
     I have an Associates of Arts Degree from Ventura College, and in 1996 got a Bachelor of Arts
     from University of California Santa Cruz. Recently worked for 7 Years as a client facing,
     cloud techno-functional engineering and front-end development consultant. Prior to that, 8
@@ -55,17 +55,17 @@ Matthew (Matt) Morse
  SUMMARY OF SKILLS
 	
     * Front-end web, UI design and development, full-stack web solutions development
-	* Client facing web software solutions consulting, requirements capture, solution architecture
-	  design, client communication, presentation, development, training, performance assessment &
-	  optimization, administration, documentation.
-	* Support, troubleshooting, problem solving, root cause analysis, disaster recovery,  
-	* Graphic design, photography & correction, illustration, logos and branding, style guides 
-	* Interactive user interface (UI) and user experience (UX) design and planning
-	* Manage project to deliver requirements on milestones, within specified timeline and budget 
-	* Customer Relation Management solution techno-functional consultant, architecture, design,
-	  development, implementation, administration and support in accordance with master service
-	  agreement (MSA), statements of work (SOW) and service level agreements (SLA)..
-	* Tracking time, contractor billable hours, reporting to clients   
+    * Client facing web software solutions consulting, requirements capture, solution architecture
+      design, client communication, presentation, development, training, performance assessment &
+      optimization, administration, documentation.
+    * Support, troubleshooting, problem solving, root cause analysis, disaster recovery,  
+    * Graphic design, photography & correction, illustration, logos and branding, style guides 
+    * Interactive user interface (UI) and user experience (UX) design and planning
+    * Manage project to deliver requirements on milestones, within specified timeline and budget 
+    * Customer Relation Management solution techno-functional consultant, architecture, design,
+      development, implementation, administration and support in accordance with master service
+      agreement (MSA), statements of work (SOW) and service level agreements (SLA)..
+    * Tracking time, contractor billable hours, reporting to clients   
 
 ===================================================================================================
  WORK EXPERIENCE
@@ -101,6 +101,7 @@ ________________________________________________________________________________
 	    delivered & supported innovative CRM/call center solutions using cloud platforms like
 		Oracle Service Cloud (formerly RightNow CX), Pega (PCSA Cert.), Jira, TeamWork, TFS,
 		NetSuite and SalesForce
+	  * Developed websites, web-based customer portals, email marketing and communications campaigns  
       * Built customer-focused relationships with clients to identify business challenges, gather
 	    requirements develop specifications to arrive at the best solution. Worked directly with
 		clients to gather project requirements, target key performance indicators and verify
