@@ -1,0 +1,303 @@
+Matthew (Matt) Morse									        
+    Resume Plain Text File Format (*.txt)
+
+===================================================================================================
+ CONTACT INFORMATION
+   
+    E-mail: mm@mattmorse.com                     Position ID: *** 
+    Phone: (805) 796-0070                        Security Clearance: contact for details
+    Website: https://mattmorse.com               Desired Location: *** 
+    Location: Thousand Oaks, California          (Remote | 25% Travel | Thousand Oaks, California)
+    Work Authorization: U.S. Citizen
+
+===================================================================================================
+ PROFESSIONAL SOCIAL MEDIA
+   
+    LinkedIn: https://www.linkedin.com/in/mattbmorse/
+    Github Profile: https://github.com/MMorse1973
+   
+===================================================================================================
+ BIOGRAPHY
+ 
+  Hi, I am Matt Morse, 
+    27 years experience developing web, cloud and native software solutions ranging from the
+    heights of military avionics to the depths of marine science educational simulations, working
+    with orgs in the public, private, and non-profit sectors.
+    Most recently cloud customer relationship management techno-functional engineering consulting.
+    Lot's of front-end devlopment, branding design, UI/UX, custom app design and managed services.
+    Prior to that, developed integrated web-based financial trading tools and websites.
+    Before that, managed an in-house multimedia department at a real-estate pro services provider.
+    Also did multimedia and web development for them as a contractor, liked my work and hired me. 
+    Further back, developed training software and websites for a defense contractor.
+    Before that, exhibit software and educational websites for the Natural History Museum in LA.
+    Right out of school I started freelancing and became a US Government Contractor for the
+    National Park Service. I have been contracting on and off ever since.
+    2 work study jobs at University of California Santa Cruz, a educational software development
+    role and AV Tech for residential college events. Both roles aligned with my studies, bonus! 
+    Through college worked at a bicycle shop, loved cycling, learned a lot, drew some graphic ads. 
+        
+    Speaking of school, earned a B.A. from the University of California Santa Cruz, and A.A. from
+    Ventura College. Recent certifications in Pega (PSCA), HIPAA (Privacy Essentials & Security
+    Rules) and eagerness to learn and proven ability to quickly adopt new technologies. I have had
+    first aid, CPR & AED certification from AHA or ARC for about 17 years, and I have used it. 
+    
+    Technical achievements, about 6 years ago working for Eventus consulting General Dynamics
+    Information Technology, lead development team customizing a Cloud CRM into a financial coaching
+    solution the Consumer Financial Protection Bureau (CFPB) councilors would use to protect
+    Economically Vulnerable Consumers. That was highly customized and a very tight timeline with
+    various academic subject matter experts, many stakeholders, requirements and security concerns.
+    Another tricky one for ESG was for CENLAR where we integrated a SalesForce web app into a
+    responsive Oracle Service Cloud Customer Portal site using a iFrame.
+    
+    For extracurriculars am active hiker, camper, paddler, off-roader and avid mountain biker.
+    The past 16 years, volunteered in the Santa Monica Mountains National Recreation Area, 
+    Mountain Bike Unit. The MBU supports National, State and Local park agencies to assist
+    visitors and protect parkland resources. I am a coordinator for the MBU Youth Adventures
+    Program that takes at-risk youth mountain biking in the parks.
+    
+===================================================================================================
+ WORK EXPERIENCE
+ 
+   ________________________________________________________________________________________________
+   FREELANCE
+    Southern California (remote and at clients)
+    1996 - Present (27 years, 1099)
+    
+    CONTRACTING (1996 - Present, 27yr,  1099)
+    Cloud solution, web development, software development, graphic, software, UI design consulting. 
+   
+   ________________________________________________________________________________________________
+	  Eventus Solutions Group
+	   Englewood Colorado (remote, 15% travel)
+    March 2013 - February 2020 (7 years, W2)
+   
+    CONSULTANT   (March 2018 - February 2020, 2yr, W2)
+    ENGINEER     (March 2016 - March 2018, 2yr 1mo, W2) 
+    SENIOR CLOUD ENGINEER   (April 2013 - March 2016, 3 yr, W2) 
+	   
+    In all roles, customer relationship management (CRM) solutions techno + functional consultant
+	   and web solutions developer for several fortune 100 accounts. Designed, developed, and
+	   supported CRM B2C solutions for multiple custom application development & managed services
+	   clients simultaneously. Worked in agile collaborative teams, often as client facing or
+	   technical lead role.
+	  
+	  * Client-facing customer relationship management (CRM) techno-functional consultant designed,
+     developed, delivered & supported innovative CRM/call center solutions using cloud platforms
+     like Oracle Cloud Service B2C (Oracle Service Cloud, RightNow CX), Pega (PCSA Cert.), Oracle
+     NetSuite (Netsuite) and SalesForce. 
+  	* Developed websites, web-based customer portals, email marketing and communications campaigns
+   * Built customer-focused relationships with clients to identify business challenges, gather
+	    requirements develop specifications to arrive at the best solution. Worked directly with
+		   clients to gather project requirements, target key performance indicators and verify
+		   results	with analytics, identified additional product/service sales opportunities 
+   * Account and project management responsibilities, coordinated multi-member development teams
+	    and collaborated across multiple internal teams to ensure successful delivery and support,
+		   based on scope of work
+   * Demonstrated proficiency in creating proposals and SOW's, responding to RFP's. Present
+	    proposals to clients and drive working sessions with client to ensure expectations and
+		   direction are aligned and timelines were met
+	  * Developed analytics based approaches and reporting to demonstrate improved performance
+	    metrics (KPI)
+   * Designed & developed client brand standards compliant web and desktop applications and
+     communications consistent across mufti-language and multi-channel
+   * Tracked work hours by client & activity to maintain target utilization
+   
+   ________________________________________________________________________________________________
+   InterDealer Information Technologies (AKA: InterDealer Trading Solutions) 
+    Simi Valley California (on site) 
+    March 2012 - February 2013 (1 year, W2) 
+
+    WEB DEVELOPMENT SOFTWARE ENGINEER   (March 2012 - Febrauary 2013, 1y W2)
+	   
+    Designed, developed front-end, supported, trained and documented web-based InterDealer fintech
+    products, along with InterDealer corportate website, intranet, marketing and support websites.
+    Coordinated with client teams to develope and integrate InterDealer products into clients'
+    proprietary web-based and desktop trading terminal applications. The InterDealer global network
+    delivered trading data to 9 out of the world's 10 largest banks, its users included 8,000
+    traders in over 2,000 financial institutions.
+	  
+   * Website and web-based product design, architecture, UI & graphic design, development,
+	    training and technical support  
+   * Systems & software development activities related to the InterDealer trading system and
+	    integration with client products
+		
+   ________________________________________________________________________________________________
+   Rapattoni Corporation
+    Simi Valley California (Relocated to Westlake Village California) (on site, some travel) 
+    September 2002 - June 2010 (7 years 10 months, 1099 & W2) 
+   
+    MULTIMEDIA AND GRAPHICS DEPARTMENT MANAGER (January 2005 - June 2010, 5yr 6mo, W2)
+	   MULTIMEDIA & PRODUCT DESIGN DIVISIONS SUPERVISOR (Jan 2004 - Jan 2005, 1yr 1mo, 1099 contractor)
+	   MULTIMEDIA TRAINING SOFTWARE DEVELOPER (Sep 2002 - Jan 2004, 1yr 5mo, 1099 contractor) 
+    
+    Contracted with Rapattoni Corporation starting in 2002 developing multimedia training software.
+	   Expanded role to provide multiple internal clients including management with a range of media,
+    web design and development services. Rapattoni planned it's first web-based product. Assited
+    founder and product team with web design, front-end development, and full stack integration.
+    Also delivered various logo and graphic design, and media projects. Mentored talented internal
+    resources to assist with increasing demand for design and media work. In 2004 contracted to
+    form and supervise in-house multimedia and product design divisions. Supervised up to 6 staff,
+    performed evaluations, training, project management, coordinating production with project
+    stakeholders. Hired on full time in 2005 as Manager of the Multimedia and Graphics Department.
+    As Manager of Multimedia Department supervised team, managed projects, supported events,
+    maintained photography, recording, production, presentation equipment and studio.
+    
+   * Supervised team of up to 6 busy, talented designers & developers, plus occasional contractors.
+     Recruited, conducted performance evaluations, training, support, mentoring and layoffs
+   * Managed projects, coordinated with stakeholders on creative projects for all customers and
+     most intertnal departments using client preferred methodolgy (waterfall, agile, iterative...) 
+   * Photographed, recorded and provided presentation capability for events on location.
+   * Equipped and maintained studio and production, recording & presentation equipment.
+   * Negotiated advantageous pricing on brand-critical licenced assets saving Rapattoni thousands
+     of dollars per year over a decade contract.
+   * Operated highly productive in-house multimedia art and design department providing customers
+     and clients flexibility, specialized market and customer knowledge, integration with product
+     designs librabry of client, product and company specific branding assets  
+
+   ________________________________________________________________________________________________
+	  MCA Engineers, Inc.
+	   Oxnard, California (onsite and travel)
+	   August 2000 - March 2002 (1 year 8 months)  
+   
+    COMPUTER BASED TRAINING SPECIALIST (August 2000 - March 2002, 1yr 8mo, W2)
+    
+    Under tight deadlines, designed, developed computer based training (CBT), interactive
+	   multimedia workshop (IMW), and part task training (PTT) software with United States Navy,
+	   Marine Corps and Air Force stakeholder teams. Built company web site and customer facing
+	   document database solution to conform to contract specifications and ISO 9000 Standards. 
+      
+	  * Given lead on several behind schedule projects, successfully completing on timeline 
+   * Insured ISO compliance in product design, delivery, archiving and web document access
+   * Verified quality, functionality & specification conformity of products.
+   * Customer facing technical design and presentation.
+	  
+   ________________________________________________________________________________________________
+   Natural History Museum of Los Angeles County
+	   Los Angeles, California
+	   April 1997 - Jun 2000 (3 years 3 months)
+
+    MULTIMEDIA ARTIST (April 1997 - June 2000, 3yr 3mo, 1099 & W2)
+	  
+    Multimedia Artist, mobile physical exhibit and interactive web exhibit designer & developer. 
+    Designed and developed custom educational exhibit software, web site & CD-ROM for the
+	   Seamobile, a mobile research submersible simulator exhibit experience. 
+    
+   * Designed, built and maintained computer controlled interactive multimedia video exhibit systems 
+   * Administrated Apple Macintosh desktop, mobile & network devises, troubleshooting, user support,
+		   repair for onsite and mobile computer, lighting, interactive audio video exhibit systems,
+   * Worked with subject matter experts to design and develop new content & features
+   * Designed and created illustrations, graphics, 3D animations, interactive education excercises, 
+     videos, for museum & mobile exhibits, publications & websites
+     
+   ________________________________________________________________________________________________
+	  University of California Santa Cruz
+	   Santa Cruz, California
+    November 1994 - June 1996 (1 year 8 months)
+   
+    SOFTWARE DEVELOPER   (September 1995 - June 1996, 10mos, 1099)
+    Work study, developed interactive multimedia college language educational software.
+
+	   COWELL COLLEGE, TECH CREW AUDIO VISUAL TECHNICIAN   (Nov. 1994 - June 1996, 1 yr 8 mos, 1099)
+    Work study, set up & maintianed lighting, sound and audio visual equipment for college events.
+
+   ________________________________________________________________________________________________
+   Matt's Cycling Center (different Matt)
+    Ventura, California
+    Jun 1991 - Aug 1994 (3 years 3 months)
+    
+    RETAIL & MECHANIC ASSOCIATE (Jun 1991 - Aug 1994, 3 yrs 3 mos, 1099)
+    Assembled, sold, repaired bicycles, related tools, parts, clothing & accessories 
+   
+===================================================================================================
+ EDUCATION
+ 
+    University of California, Santa Cruz
+    Bachelor of Arts (B.A.), Art, 1994 - 1996  
+    * Web and multi-platform software design, development and delivery
+    * Natural science illustration, graphic design, UI/UX design
+    * animation, interactivity, graphics, photography, audio & video capture and production
+    * Multi-OS compatible software development, media production and delivery media
+  
+    Ventura College
+    Associate of Arts (A.A.), Liberal Arts, 1991 - 1994
+    
+===================================================================================================
+ CERTIFICATIONS
+ 
+    Pega Certified System Architect (PCSA) 80V1 2019
+    Pegasystems Issued May 2019 Credential ID PEGA060492
+    
+    HIPAA Privacy EssentialsHIPAA Privacy Essentials
+    Mineral Issued Nov 2019 Credential ID 1573066536
+     
+    HIPAA Security Rule for Business Associates
+    Mineral Issued Nov 2019 Credential ID 1573069024
+    
+    Brainbench Certified Photoshop Content Cleaner
+    Brainbench/SHL Issued June 2012
+    
+    American Heart Association Heartsaver First Aid CPR AED Program:
+    American Heart Association (AHA) Issued Jul 2021 - July 2023, Credential ID 216014421735
+    AHA or American Red Cross (ARC) First Aid, CPR, AED certified since 2006
+   
+===================================================================================================
+ SKILLS & TECHNOLOGIES
+    
+   * Front end web development: HTML, HTML5, XHTML, XML, JavaScript, JSON, AJAX, JQuery, CSS, CSS3,
+     PHP, ADA, WCAG, Responsive Design, PHP, MVC, JavaScript frameworks and libraries, various IDEs
+     (VS Code), version control (Git, GitHub, private repos, UI's & from command line)   
+   * Graphic, logo, branding, web, UI & print design, photographic correction, illustration,
+     animation, audio/video editing and production, mockup and prototyping: Adobe Creative Cloud
+   * Interactive user interface (UI) and user experience (UX) design and planning
+   * Project management to deliver requirements as specified on timeline milestones 
+   * Client communication, regular and milestone updates, billable hours time tracking 
+   * Consulting skills: customer facing, techno-functional, requirements gathering, solutions
+     architecture, client presentation, training, project management, technical support,
+     troubleshooting, root cause analysis, key performance indicators analytics, systems
+     administration and support in accordance with service level agreements (SLA). Documentation
+     authoring of statements of work (SOW), levels of effort (LOE), playbooks and style guides.  
+   * Cloud customer relationship management platforms, architect, trainer, administrator, techno-
+     functional consulting, front-end web developer: Oracle Cloud Service B2C (formerly: Oracle
+     Service Cloud, Oracle CX, Oracle RightNow CX, RightNow Technologies CX), PEGA, SalesForce,
+     Oracle NetSuite (formerly: NetSuite), SalesForce platforms
+   * Software Development Life Cycle (SDLC) methodologies and tools: Agile, Agile Scrum, Waterfall 
+   * Project Management and ticket tracking: MS Project, Team Foundation Server, HP ITG, RightNow,
+     Oracle Service Cloud,  Atlassian Jira
+   * Office productivity, presentation decks, spreadsheets: MicroSoft Office 360 Suite, Google Docs 
+   * Clouds: InterDealer Trading System, Bloomberg Terminal, Bloomberg Professional Services platform, 
+     formats and style guides, WordPress, Jira, TeamWork, TFS
+        
+===================================================================================================
+ VOLUNTEERING AND PHILANTHROPY
+        
+	  Mountain Bike Unit, MBU, Santa Monica Mountains National Recreation Area
+   * MBU Uniform Committee, uniform redesign, branding and graphic design 2017 – Present
+   * MBU Patrol operations restart - post pandemic lock-down & park closures 2020 - 2022
+   * MBU Youth Adventures restart - at-risk youth program post pandemic lock-down 2021 - 2022 
+   * MBU Web-based application support 2016 - Present
+
+   Other
+   * Ventura County Community Foundation, Personal Protective Equipment Drive, 2020 - 2021
+   * Conejo Open Space Foundation, COSF, Trails Education Days, 2022 – Present
+   * KCLU 88.3 FM, Sustaining Member, Jan 2008 - Present · (15Y)
+   * Natural History Museum of Los Angeles County, Public Programs, 1997 – 2013 (16Y)
+   * The Discovery Center for Science and Tech nology, Math Midway Exhibit Technician, 2011
+   * Channel Islands National Park, Volunteer Web Designer, Mar. 1997 – Oct. 1998 (1Y/8M)
+		
+===================================================================================================
+ CLIENTS
+ 
+   Walmart Inc.,  The Kraft Heinz Company (KHC),  Cenlar FSB,  The Children's Place Inc.,
+   EPAY Worldwide part of Euronet Worldwide,  General Dynamics Information Technology (GDIT),
+   Lenovo Group Limited,  Maryland Health Benefit Exchange,  Verizon Communications Inc.
+   (Redbox Instant By Verizon),  Nicklaus Children's Hospital,  Carnival Corporation & plc,
+   Sentara Healthcare,  Avon Products, Inc.,  Arbonne International, LLC,  Bloomberg L.P.,
+   BlackRock, Inc.,  National Park Service,  Connect for Health Colorado,
+   Maryland Health Benefits Exchange,  Nicklaus Children's Hospital, 
+
+===================================================================================================
+ RESUME FORMATS 
+   
+    ASCII Text: https://mattmorse.com/docs/Matt_Morse-Resume.txt (this document) 
+    PDF 1 Page: https://mattmorse.com/docs/Matt_Morse-Resume_1pg.pdf 
+    PDF 3 Page: https://mattmorse.com/docs/Matt_Morse-Resume_3pg.pdf
